@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "test_partthree",
+      "setup": "sudo -H pip3 install pytest numpy",
+      "run": "pytest test_ps5.py::test_partthree",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "test_partone",
+      "setup": "sudo -H pip3 install pytest numpy",
+      "run": "pytest test_ps5.py::test_partone",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 20
+    },
+    {
+      "name": "test_parttwob",
+      "setup": "sudo -H pip3 install pytest numpy",
+      "run": "pytest test_ps5.py::test_parttwob",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "test_parttwoa",
+      "setup": "sudo -H pip3 install pytest numpy",
+      "run": "pytest test_ps5.py::test_parttwoa",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 20
+    }
+  ]
+}

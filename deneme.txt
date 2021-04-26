@@ -1,0 +1,250 @@
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/01042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/07042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/08042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/14042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/15042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/21042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/22042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/23042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/28042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201804/29042018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/01052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/05052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/06052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/12052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/13052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/19052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/20052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/26052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201805/27052018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/02062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/03062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/09062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/10062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/14062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/15062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/16062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/17062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/23062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/24062018.xml
+HTTP Error 404: Not Found - https://www.tcmb.gov.tr/kurlar/201806/30062018.xml
+Database init completed.
+Database interval: 2018-04-01 00:00:00 - 2018-06-30 00:00:00
+Fetched 91 days. Market is open 61.0 days.
+There are 18 currencies.
+---
+Initialized trigger: LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018)
+Initialized trigger: HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018)
+Initialized trigger: HighTrigger(MEAN, SELL, 4.2) in between (22/04/2018 - 12/05/2018)
+Initialized trigger: LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018)
+Initialized trigger: HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018)
+Initialized trigger: LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018)
+Initialized trigger: HighTrigger(CHG, BUY, 11.3) in between (02/05/2018 - 12/05/2018)
+Initialized trigger: HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018)
+Initialized trigger: LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018)
+Initialized trigger: LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018)
+Initialized trigger: HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018)
+Initialized trigger: LowTrigger(CHG, SELL, 5.2) in between (20/05/2018 - 30/05/2018)
+Initialized trigger: HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018)
+Initialized trigger: HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018)
+Initialized trigger: LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018)
+Initialized trigger: LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018)
+Initialized trigger: HighTrigger(MAX, BUY, 11.2) in between (13/05/2018 - 31/05/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 0.02) in between (13/05/2018 - 31/05/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018)
+Initialized trigger: HighTrigger(MIN, BUY, 2.8) in between (24/06/2018 - 27/06/2018)
+Initialized trigger: HighTrigger(CHG, SELL, 0.2) in between (15/05/2018 - 19/05/2018)
+Initialized trigger: HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 2.4) in between (25/05/2018 - 29/05/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018)
+Initialized trigger: HighTrigger(CHG, BUY, 3.3) in between (25/05/2018 - 29/05/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 4.8) in between (10/06/2018 - 17/06/2018)
+Initialized trigger: HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018)
+Initialized trigger: LowTrigger(MEAN, SELL, 4.0) in between (13/05/2018 - 31/05/2018)
+Initialized trigger: HighTrigger(CHG, BUY, 6.6) in between (24/06/2018 - 27/06/2018)
+Initialized trigger: LowTrigger(CHG, SELL, 4.1) in between (22/04/2018 - 28/04/2018)
+Initialized trigger: HighTrigger(CHG, BUY, 7.7) in between (13/05/2018 - 31/05/2018)
+Initialized trigger: LowTrigger(VOL, BUY, 0.07) in between (25/05/2018 - 29/05/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018)
+Initialized trigger: HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 06/04/2018)
+Initialized trigger: LowTrigger(VOL, SELL, 0.01) in between (01/04/2018 - 03/04/2018)
+Initialized trigger: HighTrigger(MIN, BUY, 3.2) in between (18/04/2018 - 23/04/2018)
+Initialized trigger: LowTrigger(MAX, BUY, 300.2) in between (07/05/2018 - 14/05/2018)
+Initialized trigger: HighTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 07/04/2018)
+Initialized trigger: HighTrigger(MIN, BUY, 2.7) in between (22/06/2018 - 29/06/2018)
+Initialized trigger: HighTrigger(MIN, SELL, 4.8) in between (24/06/2018 - 30/06/2018)
+Initialized trigger: AndTrigger(LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018), HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018))
+Initialized trigger: OrTrigger(HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018), HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018))
+Initialized trigger: NotTrigger(LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018))
+Initialized trigger: OrTrigger(LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018), HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018))
+Initialized trigger: NotTrigger(LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018))
+Initialized trigger: OrTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018))
+Initialized trigger: OrTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018))
+Initialized trigger: OrTrigger(HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018), LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018))
+Initialized trigger: NotTrigger(HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018))
+Initialized trigger: AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018))
+Initialized trigger: OrTrigger(LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018), LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018))
+Initialized trigger: NotTrigger(LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018))
+Initialized trigger: OrTrigger(LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018), HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018))
+Initialized trigger: AndTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018))
+Initialized trigger: OrTrigger(HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018), HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018))
+Initializing triggers complete!
+---
+Evaluating trigger: LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018)
+Evaluating trigger: HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018)
+Evaluating trigger: HighTrigger(MEAN, SELL, 4.2) in between (22/04/2018 - 12/05/2018)
+Evaluating trigger: LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018)
+Evaluating trigger: HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018)
+Evaluating trigger: LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018)
+Evaluating trigger: HighTrigger(CHG, BUY, 11.3) in between (02/05/2018 - 12/05/2018)
+Evaluating trigger: HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018)
+Evaluating trigger: LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018)
+Evaluating trigger: LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018)
+Evaluating trigger: HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018)
+Evaluating trigger: LowTrigger(CHG, SELL, 5.2) in between (20/05/2018 - 30/05/2018)
+Evaluating trigger: HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018)
+Evaluating trigger: HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018)
+Evaluating trigger: LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018)
+Evaluating trigger: LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018)
+Evaluating trigger: HighTrigger(MAX, BUY, 11.2) in between (13/05/2018 - 31/05/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 0.02) in between (13/05/2018 - 31/05/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018)
+Evaluating trigger: HighTrigger(MIN, BUY, 2.8) in between (24/06/2018 - 27/06/2018)
+Evaluating trigger: HighTrigger(CHG, SELL, 0.2) in between (15/05/2018 - 19/05/2018)
+Evaluating trigger: HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 2.4) in between (25/05/2018 - 29/05/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018)
+Evaluating trigger: HighTrigger(CHG, BUY, 3.3) in between (25/05/2018 - 29/05/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 4.8) in between (10/06/2018 - 17/06/2018)
+Evaluating trigger: HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018)
+Evaluating trigger: LowTrigger(MEAN, SELL, 4.0) in between (13/05/2018 - 31/05/2018)
+Evaluating trigger: HighTrigger(CHG, BUY, 6.6) in between (24/06/2018 - 27/06/2018)
+Evaluating trigger: LowTrigger(CHG, SELL, 4.1) in between (22/04/2018 - 28/04/2018)
+Evaluating trigger: HighTrigger(CHG, BUY, 7.7) in between (13/05/2018 - 31/05/2018)
+Evaluating trigger: LowTrigger(VOL, BUY, 0.07) in between (25/05/2018 - 29/05/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018)
+Evaluating trigger: HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 06/04/2018)
+Evaluating trigger: LowTrigger(VOL, SELL, 0.01) in between (01/04/2018 - 03/04/2018)
+Evaluating trigger: HighTrigger(MIN, BUY, 3.2) in between (18/04/2018 - 23/04/2018)
+Evaluating trigger: LowTrigger(MAX, BUY, 300.2) in between (07/05/2018 - 14/05/2018)
+Evaluating trigger: HighTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 07/04/2018)
+Evaluating trigger: HighTrigger(MIN, BUY, 2.7) in between (22/06/2018 - 29/06/2018)
+Evaluating trigger: HighTrigger(MIN, SELL, 4.8) in between (24/06/2018 - 30/06/2018)
+Evaluating trigger: AndTrigger(LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018), HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018))
+Evaluating trigger: OrTrigger(HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018), HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018))
+Evaluating trigger: NotTrigger(LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018))
+Evaluating trigger: OrTrigger(LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018), HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018))
+Evaluating trigger: NotTrigger(LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018))
+Evaluating trigger: OrTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018))
+Evaluating trigger: OrTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018))
+Evaluating trigger: OrTrigger(HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018), LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018))
+Evaluating trigger: NotTrigger(HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018))
+Evaluating trigger: AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018))
+Evaluating trigger: OrTrigger(LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018), LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018))
+Evaluating trigger: NotTrigger(LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018))
+Evaluating trigger: OrTrigger(LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018), HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018))
+Evaluating trigger: AndTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018))
+Evaluating trigger: OrTrigger(HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018), HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018))
+Running triggers complete!
+============Writing Report============
+1 - LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+2 - HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018) is fired for: ['KWD', 'JPY']
+3 - HighTrigger(MEAN, SELL, 4.2) in between (22/04/2018 - 12/05/2018) is fired for: ['EUR', 'GBP', 'KWD', 'JPY']
+4 - LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018) is fired for: ['DKK', 'SEK', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+5 - HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018) is fired for: ['JPY']
+6 - LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+7 - HighTrigger(CHG, BUY, 11.3) in between (02/05/2018 - 12/05/2018) is not fired!
+8 - HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY', 'BGN']
+9 - LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+10 - LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018) is fired for: ['DKK', 'SEK', 'NOK', 'SAR', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+11 - HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018) is fired for: ['EUR', 'GBP', 'KWD', 'JPY']
+12 - LowTrigger(CHG, SELL, 5.2) in between (20/05/2018 - 30/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+13 - HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY', 'BGN']
+14 - HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY', 'BGN']
+15 - HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018) is fired for: ['JPY']
+16 - LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018) is fired for: ['RUB', 'PKR']
+17 - LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+18 - LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018) is not fired!
+19 - HighTrigger(MAX, BUY, 11.2) in between (13/05/2018 - 31/05/2018) is fired for: ['KWD', 'JPY']
+20 - LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018) is fired for: ['USD', 'AUD', 'DKK', 'CHF', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+21 - LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018) is fired for: ['DKK', 'SEK', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+22 - HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018) is fired for: ['KWD', 'JPY']
+23 - LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+24 - LowTrigger(VOL, SELL, 0.02) in between (13/05/2018 - 31/05/2018) is fired for: ['AUD', 'DKK', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+25 - LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018) is fired for: ['USD', 'AUD', 'DKK', 'CHF', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+26 - HighTrigger(MIN, BUY, 2.8) in between (24/06/2018 - 27/06/2018) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY']
+27 - HighTrigger(CHG, SELL, 0.2) in between (15/05/2018 - 19/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+28 - HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018) is fired for: ['GBP', 'KWD', 'JPY']
+29 - HighTrigger(VOL, SELL, 2.4) in between (25/05/2018 - 29/05/2018) is fired for: ['JPY']
+30 - LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018) is fired for: ['RUB', 'PKR']
+31 - HighTrigger(CHG, BUY, 3.3) in between (25/05/2018 - 29/05/2018) is not fired!
+32 - HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018) is fired for: ['JPY']
+33 - LowTrigger(MEAN, SELL, 4.8) in between (10/06/2018 - 17/06/2018) is fired for: ['USD', 'AUD', 'DKK', 'CHF', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+34 - HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018) is fired for: ['EUR', 'GBP', 'KWD', 'JPY']
+35 - LowTrigger(MEAN, SELL, 4.0) in between (13/05/2018 - 31/05/2018) is fired for: ['AUD', 'DKK', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+36 - HighTrigger(CHG, BUY, 6.6) in between (24/06/2018 - 27/06/2018) is not fired!
+37 - LowTrigger(CHG, SELL, 4.1) in between (22/04/2018 - 28/04/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+38 - HighTrigger(CHG, BUY, 7.7) in between (13/05/2018 - 31/05/2018) is not fired!
+39 - LowTrigger(VOL, BUY, 0.07) in between (25/05/2018 - 29/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+40 - LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+41 - HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018) is fired for: ['USD', 'EUR', 'GBP', 'CHF', 'KWD', 'JPY']
+42 - LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+43 - HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018) is fired for: ['JPY']
+44 - LowTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 06/04/2018) is fired for: ['RUB', 'PKR']
+45 - LowTrigger(VOL, SELL, 0.01) in between (01/04/2018 - 03/04/2018) is fired for: ['RUB', 'PKR']
+46 - HighTrigger(MIN, BUY, 3.2) in between (18/04/2018 - 23/04/2018) is fired for: ['USD', 'EUR', 'GBP', 'CHF', 'KWD', 'JPY']
+47 - LowTrigger(MAX, BUY, 300.2) in between (07/05/2018 - 14/05/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+48 - HighTrigger(VOL, SELL, 0.02) in between (01/04/2018 - 07/04/2018) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'IRR', 'CNY']
+49 - HighTrigger(MIN, BUY, 2.7) in between (22/06/2018 - 29/06/2018) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY', 'BGN']
+50 - HighTrigger(MIN, SELL, 4.8) in between (24/06/2018 - 30/06/2018) is fired for: ['EUR', 'GBP', 'KWD', 'JPY']
+51 - AndTrigger(LowTrigger(VOL, BUY, 0.2) in between (27/04/2018 - 12/05/2018), HighTrigger(MIN, SELL, 2.2) in between (13/05/2018 - 30/05/2018)) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'BGN']
+52 - OrTrigger(HighTrigger(VOL, BUY, 0.01) in between (04/04/2018 - 15/05/2018), HighTrigger(VOL, SELL, 2.7) in between (15/05/2018 - 19/05/2018)) is fired for: ['KWD', 'JPY']
+53 - NotTrigger(LowTrigger(MEAN, BUY, 2.9) in between (04/05/2018 - 08/05/2018)) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'JPY']
+54 - AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(VOL, SELL, 5.2) in between (02/05/2018 - 12/05/2018)) is fired for: ['USD', 'AUD', 'EUR', 'GBP', 'CHF', 'CAD', 'KWD', 'BGN']
+55 - AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018)) is fired for: ['JPY']
+56 - OrTrigger(LowTrigger(MAX, BUY, 1.2) in between (04/05/2018 - 08/05/2018), HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018)) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+57 - NotTrigger(LowTrigger(CHG, BUY, 3.2) in between (27/06/2018 - 28/06/2018)) is not fired!
+58 - OrTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), HighTrigger(VOL, SELL, 0.02) in between (07/05/2018 - 09/05/2018)) is fired for: ['GBP', 'KWD', 'JPY']
+59 - AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018)) is fired for: ['EUR', 'GBP', 'KWD', 'JPY']
+60 - OrTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), LowTrigger(VOL, SELL, 0.02) in between (05/05/2018 - 12/05/2018)) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+61 - AndTrigger(HighTrigger(MIN, SELL, 5.3) in between (15/05/2018 - 19/05/2018), LowTrigger(CHG, BUY, 0.3) in between (21/06/2018 - 24/06/2018)) is fired for: ['GBP', 'KWD', 'JPY']
+62 - OrTrigger(HighTrigger(VOL, SELL, 0.02) in between (10/04/2018 - 19/04/2018), LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018)) is fired for: ['USD', 'AUD', 'DKK', 'CHF', 'SEK', 'CAD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+63 - NotTrigger(HighTrigger(MAX, SELL, 5.2) in between (15/05/2018 - 19/05/2018)) is fired for: ['USD', 'AUD', 'DKK', 'CHF', 'SEK', 'CAD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+64 - AndTrigger(HighTrigger(VOL, BUY, 0.001) in between (08/06/2018 - 25/06/2018), LowTrigger(MEAN, SELL, 3.1) in between (25/05/2018 - 29/05/2018)) is fired for: ['BGN']
+65 - AndTrigger(HighTrigger(MEAN, SELL, 320.0) in between (21/05/2018 - 26/05/2018), LowTrigger(CHG, SELL, 9.2) in between (03/06/2018 - 04/06/2018)) is fired for: ['JPY']
+66 - OrTrigger(LowTrigger(MEAN, SELL, 0.3) in between (15/05/2018 - 19/05/2018), LowTrigger(VOL, SELL, 0.01) in between (24/06/2018 - 27/06/2018)) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'BGN', 'RON', 'RUB', 'IRR', 'CNY', 'PKR']
+67 - NotTrigger(LowTrigger(MEAN, SELL, 0.2) in between (24/06/2018 - 27/06/2018)) is fired for: ['USD', 'AUD', 'DKK', 'EUR', 'GBP', 'CHF', 'SEK', 'CAD', 'KWD', 'NOK', 'SAR', 'JPY', 'BGN', 'RON', 'IRR', 'CNY']
+68 - OrTrigger(LowTrigger(CHG, SELL, 0.2) in between (16/05/2018 - 24/06/2018), HighTrigger(VOL, SELL, 0.01) in between (10/06/2018 - 17/06/2018)) is fired for: ['KWD', 'JPY']
+69 - AndTrigger(LowTrigger(MEAN, SELL, 4.9) in between (22/04/2018 - 28/04/2018), HighTrigger(MIN, SELL, 1.6) in between (10/06/2018 - 17/06/2018)) is fired for: ['USD', 'AUD', 'CHF', 'CAD', 'BGN']
+70 - OrTrigger(HighTrigger(MEAN, SELL, 4.9) in between (04/05/2018 - 08/05/2018), HighTrigger(MAX, SELL, 3.5) in between (17/04/2018 - 22/04/2018)) is fired for: ['USD', 'EUR', 'GBP', 'CHF', 'KWD', 'JPY']
+==========End of the Report==========
